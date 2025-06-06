@@ -1,125 +1,125 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bijniervereniging-nvacp.nl/wp-content/uploads/2023/01/npo-tv1-logo.png" group-title="NL TV",NPO 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/npo1.png" group-title="NL TV",NPO 1
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1181247
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/npo-2-20147015.logowik.com.webp" group-title="NL TV",NPO 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/npo2.png" group-title="NL TV",NPO 2
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1181246
 
-#EXTINF:-1 tvg-logo="https://media.prod.cc.bijnpo.nl/800_npo-tv3-logo-rgb-300dpi-1426770708.jpg" group-title="NL TV",NPO 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/npo3.png" group-title="NL TV",NPO 3
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1181245
 
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0013/5495/brand.gif?itok=V4MOa1yt" group-title="NL TV",RTL 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/rtl4.png" group-title="NL TV",RTL 4
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1181242
 
-#EXTINF:-1 tvg-logo="https://images.prismic.io/rtlnl/53e8879b6d0128624c7f306f842fb1fe7fba69e9_rtl5.jpg?auto=compress,format" group-title="NL TV",RTL 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/rtl5.png" group-title="NL TV",RTL 5
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1181241
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",NET 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/net5.png" group-title="NL TV",NET 5
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1181201
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",SBS 6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/sbs6.png" group-title="NL TV",SBS 6
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1181243
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",RTL 7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/rtl7.png" group-title="NL TV",RTL 7
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1181240
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",RTL 8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/rtl8.png" group-title="NL TV",RTL 8
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1181239
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",RTL Z
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/rtlz.png" group-title="NL TV",RTL Z
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1181238
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",SBS 9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/sbs9.png" group-title="NL TV",SBS 9
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1557
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",Veronica/Disney
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/veronicaxd.png" group-title="NL TV",Veronica/Disney
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1181244
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",Comedy Central
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/cc.png" group-title="NL TV",Comedy Central
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1181222
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",Nickelodeon
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/nickelodeon.png" group-title="NL TV",Nickelodeon
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1181197
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",Disney Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/disneychannel.png" group-title="NL TV",Disney Channel
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1181128
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",Crime Investigation
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/crime.png" group-title="NL TV",Crime Investigation
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1181221
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",Nickelodeon
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/history.png" group-title="NL TV",History
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1181215
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",National Geographic
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/natgeo.png" group-title="NL TV",National Geographic
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1571
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",Discovery Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/discovery.png" group-title="NL TV",Discovery Channel
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1570
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",Animal Planet
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/animalplanet.png" group-title="NL TV",Animal Planet
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1159427
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",MTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/mtv.png" group-title="NL TV",MTV
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1181115
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",Star Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/starchannel.png" group-title="NL TV",Star Channel
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1181186
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",TLC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/tlc.png" group-title="NL TV",TLC
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1526
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",ESPN 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/espn1.png" group-title="NL TV",ESPN 1
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1181166
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",ESPN 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/espn2.png" group-title="NL TV",ESPN 2
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1181165
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",ESPN 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/espn3.png" group-title="NL TV",ESPN 3
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1181164
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",ESPN 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/espn4.png" group-title="NL TV",ESPN 4
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1181163
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",ESPN UHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/espnuhd.png" group-title="NL TV",ESPN UHD
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/326256
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",Eurosport 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/eurosport1.png" group-title="NL TV",Eurosport 1
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1568
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",Eurosport 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/eurosport2.png" group-title="NL TV",Eurosport 2
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1569
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",Ziggo Sport 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/ziggo1.png" group-title="NL TV",Ziggo Sport 1
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1541
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",Ziggo Sport 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/ziggo2.png" group-title="NL TV",Ziggo Sport 2
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1544
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",Ziggo Sport 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/ziggo3.png" group-title="NL TV",Ziggo Sport 3
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1606
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",Ziggo Sport 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/ziggo4.png" group-title="NL TV",Ziggo Sport 4
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1614
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",Ziggo Sport 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/ziggo5.png" group-title="NL TV",Ziggo Sport 5
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1596
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",Ziggo Sport 6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/ziggo6.png" group-title="NL TV",Ziggo Sport 6
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1181160
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",VIAPLAY 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/viaplay.png" group-title="NL TV",VIAPLAY 1
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1406418
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",Videoland live 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/videolandlive.png" group-title="NL TV",Videoland live 1
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/445071
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",Videoland live 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/videolandlive.png" group-title="NL TV",Videoland live 2
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/590208
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",Videoland live 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/videolandlive.png" group-title="NL TV",Videoland live 3
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/612863
 
-#EXTINF:-1 tvg-logo="https://images.ad.nl/MDJjNjNjMGJlNDJkZGU2MWU1ZTQvZGlvLzEyOTQ2MTgxOS9maWxsLzE2MDAvOTAw/het-nieuwe-logo-van-sbs6-is-fris-blauw" group-title="NL TV",Videoland live 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/videolandlive.png" group-title="NL TV",Videoland live 4
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/612862
 
 
