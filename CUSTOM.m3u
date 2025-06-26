@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/npo1.png" group-title="NL TV",TEST
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/npo1.png" group-title="NL TV",NPO 1
 http://cf.cdn-24-24.me:80/Boogar/7bdf8e9bae/1181247
 
