@@ -111,16 +111,16 @@ http://4kplayer.online:80/Boogaar/7bdf8e9bae/1181160
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/viaplay.png" group-title="NL Sport",Viaplay TV
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1406418
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/videolandlive.png" group-title="NL Sport",Videoland live 1
+#EXTINF:-1 tvg-id="TS" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/videolandlive.png" group-title="NL Sport",Videoland live 1
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/445071
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/videolandlive.png" group-title="NL Sport",Videoland live 2
+#EXTINF:-1 tvg-id="TS" tvg-id="TS" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/videolandlive.png" group-title="NL Sport",Videoland live 2
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/590208
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/videolandlive.png" group-title="NL Sport",Videoland live 3
+#EXTINF:-1 tvg-id="TS" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/videolandlive.png" group-title="NL Sport",Videoland live 3
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/612863
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/videolandlive.png" group-title="NL Sport",Videoland live 4
+#EXTINF:-1 tvg-id="TS" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/videolandlive.png" group-title="NL Sport",Videoland live 4
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/612862
 
 
@@ -280,6 +280,7 @@ http://4kplayer.online:80/Boogaar/7bdf8e9bae/1570
 
 #EXTINF:-1 tvg-id="NatGeo.nl" tvg-name="NL: National Geographic Channel 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/616.png?4998" group-title="NL Random",National Geographic Documentary
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1571
+
 
 
 
