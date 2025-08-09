@@ -39,26 +39,26 @@ http://4kplayer.online:80/Boogaar/7bdf8e9bae/1181244
 #EXTINF:-1 tvg-id="tvg-id="NPO1.nl"" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/cc.png" group-title="NL TV",Comedy Central
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1181222
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/nickelodeon.png" group-title="NL TV",Nickelodeon
-http://4kplayer.online:80/Boogaar/7bdf8e9bae/1181197
+#EXTINF:-1 tvg-name="PLAY+: NICKELODEON ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/nickelodeon.png" group-title="NL TV",Nickelodeon
+http://4kplayer.online:80/boogaar/7bdf8e9bae/1578
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/disneychannel.png" group-title="NL TV",Disney Channel
-http://4kplayer.online:80/Boogaar/7bdf8e9bae/1181128
+#EXTINF:-1 tvg-id="DisneyChannel.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/disneychannel.png" group-title="NL TV",Disney Channel
+http://4kplayer.online:80/boogaar/7bdf8e9bae/1531
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/crime.png" group-title="NL TV",Crime Investigation
+#EXTINF:-1 tvg-id="TS" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/crime.png" group-title="NL TV",Crime Investigation
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1181221
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/history.png" group-title="NL TV",History
-http://4kplayer.online:80/Boogaar/7bdf8e9bae/1181215
+#EXTINF:-1 tvg-id="History.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/history.png" group-title="NL TV",History
+http://4kplayer.online:80/Boogaar/7bdf8e9bae/1539
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/natgeo.png" group-title="NL TV",National Geographic
+#EXTINF:-1 tvg-id="NatGeo.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/natgeo.png" group-title="NL TV",National Geographic
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1571
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/discovery.png" group-title="NL TV",Discovery Channel
+#EXTINF:-1 tvg-id="DiscoveryChannel.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/discovery.png" group-title="NL TV",Discovery Channel
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1570
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/animalplanet.png" group-title="NL TV",Animal Planet
-http://4kplayer.online:80/Boogaar/7bdf8e9bae/1159427
+#EXTINF:-1 tvg-id="AnimalPlanet.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/animalplanet.png" group-title="NL TV",Animal Planet
+http://4kplayer.online:80/boogaar/7bdf8e9bae/1530
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/mtv.png" group-title="NL TV",MTV
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1181115
@@ -280,5 +280,6 @@ http://4kplayer.online:80/Boogaar/7bdf8e9bae/1570
 
 #EXTINF:-1 tvg-id="NatGeo.nl" tvg-name="NL: National Geographic Channel 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/616.png?4998" group-title="NL Random",National Geographic Documentary
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1571
+
 
 
