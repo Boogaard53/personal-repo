@@ -60,13 +60,13 @@ http://4kplayer.online:80/Boogaar/7bdf8e9bae/1570
 #EXTINF:-1 tvg-id="AnimalPlanet.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/animalplanet.png" group-title="NL TV",Animal Planet
 http://4kplayer.online:80/boogaar/7bdf8e9bae/1530
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/mtv.png" group-title="NL TV",MTV
-http://4kplayer.online:80/Boogaar/7bdf8e9bae/1181115
+#EXTINF:-1 tvg-id="MTV.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/mtv.png" group-title="NL TV",MTV
+http://4kplayer.online:80/boogaar/7bdf8e9bae/1558
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/starchannel.png" group-title="NL TV",Star Channel
-http://4kplayer.online:80/Boogaar/7bdf8e9bae/1181186
+#EXTINF:-1 tvg-id="Fox.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/starchannel.png" group-title="NL TV",Star Channel
+http://4kplayer.online:80/boogaar/7bdf8e9bae/76323
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/tlc.png" group-title="NL TV",TLC
+#EXTINF:-1 tvg-id="TLC.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/tlc.png" group-title="NL TV",TLC
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1526
 
 #EXTINF:-1 tvg-id="ESPN1.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/espn1.png" group-title="NL Sport",ESPN 1
@@ -81,34 +81,34 @@ http://4kplayer.online:80/Boogaar/7bdf8e9bae/1181164
 #EXTINF:-1 tvg-id="ESPN4.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/espn4.png" group-title="NL Sport",ESPN 4
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1181163
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/espnhd.png" group-title="NL Sport",ESPN UHD
+#EXTINF:-1 tvg-id="TS" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/espnhd.png" group-title="NL Sport",ESPN UHD
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/326256
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/eurosport1.png" group-title="NL Sport",Eurosport 1
+#EXTINF:-1 tvg-id="Eurosport1.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/eurosport1.png" group-title="NL Sport",Eurosport 1
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1568
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/eurosport2.png" group-title="NL Sport",Eurosport 2
+#EXTINF:-1 tvg-id="Eurosport2.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/eurosport2.png" group-title="NL Sport",Eurosport 2
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1569
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/ziggo1.png" group-title="NL Sport",Ziggo Sport 1
+#EXTINF:-1 tvg-id="ZiggoSportSelect.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/ziggo1.png" group-title="NL Sport",Ziggo Sport 1
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1541
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/ziggo2.png" group-title="NL Sport",Ziggo Sport 2
+#EXTINF:-1 tvg-id="ZiggoSportVoetbal.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/ziggo2.png" group-title="NL Sport",Ziggo Sport 2
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1544
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/ziggo3.png" group-title="NL Sport",Ziggo Sport 3
+#EXTINF:-1 tvg-id="ZiggoSportGolf.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/ziggo3.png" group-title="NL Sport",Ziggo Sport 3
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1606
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/ziggo4.png" group-title="NL Sport",Ziggo Sport 4
+#EXTINF:-1 tvg-id="ZiggoSportRacing.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/ziggo4.png" group-title="NL Sport",Ziggo Sport 4
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1614
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/ziggo5.png" group-title="NL Sport",Ziggo Sport 5
+#EXTINF:-1 tvg-id="ZiggoSportDocu.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/ziggo5.png" group-title="NL Sport",Ziggo Sport 5
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1596
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/ziggo6.png" group-title="NL Sport",Ziggo Sport 6
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1181160
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/viaplay.png" group-title="NL Sport",VIAPLAY 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/viaplay.png" group-title="NL Sport",Viaplay TV
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1406418
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/videolandlive.png" group-title="NL Sport",Videoland live 1
@@ -280,6 +280,7 @@ http://4kplayer.online:80/Boogaar/7bdf8e9bae/1570
 
 #EXTINF:-1 tvg-id="NatGeo.nl" tvg-name="NL: National Geographic Channel 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/616.png?4998" group-title="NL Random",National Geographic Documentary
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1571
+
 
 
 
