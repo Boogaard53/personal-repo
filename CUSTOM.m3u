@@ -1,42 +1,42 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/npo1.png" group-title="NL TV",NPO 1
+#EXTINF:-1 tvg-id="NPO1.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/npo1.png" group-title="NL TV",NPO 1
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1181247
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/npo2.png" group-title="NL TV",NPO 2
+#EXTINF:-1 tvg-id="NPO2.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/npo2.png" group-title="NL TV",NPO 2
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1181246
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/npo3.png" group-title="NL TV",NPO 3
+#EXTINF:-1 tvg-id="NPO3.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/npo3.png" group-title="NL TV",NPO 3
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1181245
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/rtl4.png" group-title="NL TV",RTL 4
+#EXTINF:-1 tvg-id="RTL4.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/rtl4.png" group-title="NL TV",RTL 4
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1181242
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/rtl5.png" group-title="NL TV",RTL 5
+#EXTINF:-1 tvg-id="RTL5.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/rtl5.png" group-title="NL TV",RTL 5
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1181241
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/net5.png" group-title="NL TV",NET 5
+#EXTINF:-1 tvg-id="Net5.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/net5.png" group-title="NL TV",NET 5
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1181201
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/sbs6.png" group-title="NL TV",SBS 6
+#EXTINF:-1 tvg-id="SBS6.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/sbs6.png" group-title="NL TV",SBS 6
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1181243
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/rtl7.png" group-title="NL TV",RTL 7
+#EXTINF:-1 tvg-id="RTL7.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/rtl7.png" group-title="NL TV",RTL 7
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1181240
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/rtl8.png" group-title="NL TV",RTL 8
+#EXTINF:-1 tvg-id="RTL8.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/rtl8.png" group-title="NL TV",RTL 8
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1181239
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/rtlz.png" group-title="NL TV",RTL Z
+#EXTINF:-1 tvg-id="RTLZ.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/rtlz.png" group-title="NL TV",RTL Z
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1181238
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/sbs9.png" group-title="NL TV",SBS 9
+#EXTINF:-1 tvg-id="SBS9.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/sbs9.png" group-title="NL TV",SBS 9
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1557
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/veronicaxd.png" group-title="NL TV",Veronica/Disney
+#EXTINF:-1 tvg-id="VeronicaDisneyXD.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/veronicaxd.png" group-title="NL TV",Veronica/Disney
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1181244
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/cc.png" group-title="NL TV",Comedy Central
+#EXTINF:-1 tvg-id="tvg-id="NPO1.nl"" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/cc.png" group-title="NL TV",Comedy Central
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1181222
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/nickelodeon.png" group-title="NL TV",Nickelodeon
@@ -280,4 +280,5 @@ http://4kplayer.online:80/Boogaar/7bdf8e9bae/1570
 
 #EXTINF:-1 tvg-id="NatGeo.nl" tvg-name="NL: National Geographic Channel 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/616.png?4998" group-title="NL Random",National Geographic Documentary
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1571
+
 
