@@ -69,16 +69,16 @@ http://4kplayer.online:80/Boogaar/7bdf8e9bae/1181186
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/tlc.png" group-title="NL TV",TLC
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1526
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/espn1.png" group-title="NL Sport",ESPN 1
+#EXTINF:-1 tvg-id="ESPN1.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/espn1.png" group-title="NL Sport",ESPN 1
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1181166
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/espn2.png" group-title="NL Sport",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/espn2.png" group-title="NL Sport",ESPN 2
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1181165
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/espn3.png" group-title="NL Sport",ESPN 3
+#EXTINF:-1 tvg-id="ESPN3.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/espn3.png" group-title="NL Sport",ESPN 3
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1181164
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/espn4.png" group-title="NL Sport",ESPN 4
+#EXTINF:-1 tvg-id="ESPN4.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/espn4.png" group-title="NL Sport",ESPN 4
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1181163
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/espnhd.png" group-title="NL Sport",ESPN UHD
@@ -280,3 +280,4 @@ http://4kplayer.online:80/Boogaar/7bdf8e9bae/1570
 
 #EXTINF:-1 tvg-id="NatGeo.nl" tvg-name="NL: National Geographic Channel 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/616.png?4998" group-title="NL Random",National Geographic Documentary
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1571
+
