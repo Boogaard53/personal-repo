@@ -281,6 +281,39 @@ http://4kplayer.online:80/Boogaar/7bdf8e9bae/1570
 #EXTINF:-1 tvg-id="NatGeo.nl" tvg-name="NL: National Geographic Channel 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/616.png?4998" group-title="NL Random",National Geographic Documentary
 http://4kplayer.online:80/Boogaar/7bdf8e9bae/1571
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-64n1VHhvqwMvkVgFQuShOubXz8GvnrxrA&s" group-title="UFC",UFC 1
+http://4kplayer.online:80/live/boogaar/7bdf8e9bae/605936.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-64n1VHhvqwMvkVgFQuShOubXz8GvnrxrA&s" group-title="UFC",UFC 2
+http://4kplayer.online:80/live/boogaar/7bdf8e9bae/605935.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-64n1VHhvqwMvkVgFQuShOubXz8GvnrxrA&s" group-title="UFC",UFC 3
+http://4kplayer.online:80/live/boogaar/7bdf8e9bae/605934.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-64n1VHhvqwMvkVgFQuShOubXz8GvnrxrA&s" group-title="UFC",UFC 4
+http://4kplayer.online:80/live/boogaar/7bdf8e9bae/605933.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-64n1VHhvqwMvkVgFQuShOubXz8GvnrxrA&s" group-title="UFC",UFC 5
+http://4kplayer.online:80/live/boogaar/7bdf8e9bae/605932.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-64n1VHhvqwMvkVgFQuShOubXz8GvnrxrA&s" group-title="UFC",UFC 6
+http://4kplayer.online:80/live/boogaar/7bdf8e9bae/605931.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-64n1VHhvqwMvkVgFQuShOubXz8GvnrxrA&s" group-title="UFC",UFC 7
+http://4kplayer.online:80/live/boogaar/7bdf8e9bae/605930.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-64n1VHhvqwMvkVgFQuShOubXz8GvnrxrA&s" group-title="UFC",UFC 8
+http://4kplayer.online:80/live/boogaar/7bdf8e9bae/605929.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-64n1VHhvqwMvkVgFQuShOubXz8GvnrxrA&s" group-title="UFC",UFC 9
+http://4kplayer.online:80/live/boogaar/7bdf8e9bae/605928.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-64n1VHhvqwMvkVgFQuShOubXz8GvnrxrA&s" group-title="UFC",UFC 10
+http://4kplayer.online:80/live/boogaar/7bdf8e9bae/605927.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-64n1VHhvqwMvkVgFQuShOubXz8GvnrxrA&s" group-title="UFC",UFC 11
+http://4kplayer.online:80/live/boogaar/7bdf8e9bae/605926.ts
+
 
 
 
