@@ -248,31 +248,31 @@ http://4kplayer.online:80/boogaar/7bdf8e9bae/1019857
 #EXTINF:-1 tvg-id="" tvg-name="NL: SPONGEBOB 4K" tvg-logo="http://logo.protv.cc/picons/logos/NETHERLAND-HICHAM/SPONGEBOB.png" group-title="NL Random",Spongebob
 http://4kplayer.online:80/boogaar/7bdf8e9bae/507660
 
-#EXTINF:-1 tvg-id="" tvg-name="NL: TELETUBBIES 4K" tvg-logo="http://logo.protv.cc/picons/logos/NETHERLAND-HICHAM/KIDS-TV.png" group-title="NL Random" Teletubbies
+#EXTINF:-1 tvg-id="" tvg-name="NL: TELETUBBIES 4K" tvg-logo="http://logo.protv.cc/picons/logos/NETHERLAND-HICHAM/KIDS-TV.png" group-title="NL Random",Teletubbies
 http://4kplayer.online:80/boogaar/7bdf8e9bae/507659
 
-#EXTINF:-1 tvg-id="" tvg-name="NL: SMURFEN 4K" tvg-logo="http://logo.protv.cc/picons/logos/NETHERLAND-HICHAM/KIDS-TV.png" group-title="NL Random" De Smurven
+#EXTINF:-1 tvg-id="" tvg-name="NL: SMURFEN 4K" tvg-logo="http://logo.protv.cc/picons/logos/NETHERLAND-HICHAM/KIDS-TV.png" group-title="NL Random",De Smurven
 http://4kplayer.online:80/boogaar/7bdf8e9bae/507657
 
-#EXTINF:-1 tvg-id="" tvg-name="NL: PEPPA PIG 4K" tvg-logo="http://logo.protv.cc/picons/logos/NETHERLAND-HICHAM/KIDS-TV.png" group-title="NL Random" Peppa pig
+#EXTINF:-1 tvg-id="" tvg-name="NL: PEPPA PIG 4K" tvg-logo="http://logo.protv.cc/picons/logos/NETHERLAND-HICHAM/KIDS-TV.png" group-title="NL Random",Peppa pig
 http://4kplayer.online:80/boogaar/7bdf8e9bae/507656
 
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZOU 4K" tvg-logo="http://logo.protv.cc/picons/logos/NETHERLAND-HICHAM/KIDS-TV.png" group-title="NL Random" Zou
+#EXTINF:-1 tvg-id="" tvg-name="NL: ZOU 4K" tvg-logo="http://logo.protv.cc/picons/logos/NETHERLAND-HICHAM/KIDS-TV.png" group-title="NL Random",Zou
 http://4kplayer.online:80/boogaar/7bdf8e9bae/507655
 
-#EXTINF:-1 tvg-id="" tvg-name="NL: MAYA DE BIJ 4K" tvg-logo="http://logo.protv.cc/picons/logos/NETHERLAND-HICHAM/KIDS-TV.png" group-title="NL Random" Maya de bij
+#EXTINF:-1 tvg-id="" tvg-name="NL: MAYA DE BIJ 4K" tvg-logo="http://logo.protv.cc/picons/logos/NETHERLAND-HICHAM/KIDS-TV.png" group-title="NL Random",Maya de bij
 http://4kplayer.online:80/boogaar/7bdf8e9bae/507653
 
-#EXTINF:-1 tvg-id="" tvg-name="NL: MASHA DE BEER 4K" tvg-logo="http://logo.protv.cc/picons/logos/NETHERLAND-HICHAM/KIDS-TV.png" group-title="NL Random" Masha de beer
+#EXTINF:-1 tvg-id="" tvg-name="NL: MASHA DE BEER 4K" tvg-logo="http://logo.protv.cc/picons/logos/NETHERLAND-HICHAM/KIDS-TV.png" group-title="NL Random",Masha de beer
 http://4kplayer.online:80/boogaar/7bdf8e9bae/507652
 
-#EXTINF:-1 tvg-id="" tvg-name="NL: FABELTJESKRANT 4K" tvg-logo="http://logo.protv.cc/picons/logos/NETHERLAND-HICHAM/KIDS-TV.png" group-title="NL Random" Fabeltjeskrant
+#EXTINF:-1 tvg-id="" tvg-name="NL: FABELTJESKRANT 4K" tvg-logo="http://logo.protv.cc/picons/logos/NETHERLAND-HICHAM/KIDS-TV.png" group-title="NL Random",Fabeltjeskrant
 http://4kplayer.online:80/boogaar/7bdf8e9bae/507648
 
-#EXTINF:-1 tvg-id="" tvg-name="NL: BUMBA 4K" tvg-logo="http://logo.protv.cc/picons/logos/NETHERLAND-HICHAM/KIDS-TV.png" group-title="NL Random" BUMBA
+#EXTINF:-1 tvg-id="" tvg-name="NL: BUMBA 4K" tvg-logo="http://logo.protv.cc/picons/logos/NETHERLAND-HICHAM/KIDS-TV.png" group-title="NL Random",BUMBA
 http://4kplayer.online:80/boogaar/7bdf8e9bae/507644
 
-#EXTINF:-1 tvg-id="" tvg-name="NL: BRANDWEERMAN SAM 4K" tvg-logo="http://logo.protv.cc/picons/logos/NETHERLAND-HICHAM/KIDS-TV.png" group-title="NL Random" Brandweerman SAM
+#EXTINF:-1 tvg-id="" tvg-name="NL: BRANDWEERMAN SAM 4K" tvg-logo="http://logo.protv.cc/picons/logos/NETHERLAND-HICHAM/KIDS-TV.png" group-title="NL Random",Brandweerman SAM
 http://4kplayer.online:80/boogaar/7bdf8e9bae/507643
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.nl" tvg-name="NL: Discovery 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/618.jpg?45985" group-title="NL Random",Discovery Documentary
@@ -313,6 +313,7 @@ http://4kplayer.online:80/live/boogaar/7bdf8e9bae/605927.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-64n1VHhvqwMvkVgFQuShOubXz8GvnrxrA&s" group-title="UFC",UFC 11
 http://4kplayer.online:80/live/boogaar/7bdf8e9bae/605926.ts
+
 
 
 
