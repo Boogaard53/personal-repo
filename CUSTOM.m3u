@@ -3,16 +3,16 @@
 #EXTINF:-1 tvg-id="NPO1.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/npo1.png" group-title="NL TV",NPO 1
 http://4kplayer.online:80/Boogar/7bdf8e9bae/1181247
 
-#EXTINF:-1 tvg-id="NPO2.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/npo2.png" group-title="NL TV",NPO 2
+#EXTINF:-2 tvg-id="NPO2.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/npo2.png" group-title="NL TV",NPO 2
 http://4kplayer.online:80/Boogar/7bdf8e9bae/1181246
 
-#EXTINF:-1 tvg-id="NPO3.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/npo3.png" group-title="NL TV",NPO 3
+#EXTINF:-3 tvg-id="NPO3.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/npo3.png" group-title="NL TV",NPO 3
 http://4kplayer.online:80/Boogar/7bdf8e9bae/1181245
 
-#EXTINF:-1 tvg-id="RTL4.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/rtl4.png" group-title="NL TV",RTL 4
+#EXTINF:-4 tvg-id="RTL4.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/rtl4.png" group-title="NL TV",RTL 4
 http://4kplayer.online:80/Boogar/7bdf8e9bae/1181242
 
-#EXTINF:-1 tvg-id="RTL5.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/rtl5.png" group-title="NL TV",RTL 5
+#EXTINF:-5 tvg-id="RTL5.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/rtl5.png" group-title="NL TV",RTL 5
 http://4kplayer.online:80/Boogar/7bdf8e9bae/1181241
 
 #EXTINF:-1 tvg-id="Net5.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/net5.png" group-title="NL TV",NET 5
@@ -313,6 +313,7 @@ http://4kplayer.online:80/live/Boogar/7bdf8e9bae/605927.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-64n1VHhvqwMvkVgFQuShOubXz8GvnrxrA&s" group-title="UFC",UFC 11
 http://4kplayer.online:80/live/Boogar/7bdf8e9bae/605926.ts
+
 
 
 
