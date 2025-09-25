@@ -1,318 +1,319 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="NPO1.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/npo1.png" group-title="NL TV",NPO 1
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1181247
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1181247
 
 #EXTINF:-2 tvg-id="NPO2.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/npo2.png" group-title="NL TV",NPO 2
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1181246
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1181246
 
 #EXTINF:-3 tvg-id="NPO3.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/npo3.png" group-title="NL TV",NPO 3
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1181245
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1181245
 
 #EXTINF:-4 tvg-id="RTL4.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/rtl4.png" group-title="NL TV",RTL 4
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1181242
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1181242
 
 #EXTINF:-5 tvg-id="RTL5.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/rtl5.png" group-title="NL TV",RTL 5
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1181241
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1181241
 
 #EXTINF:-1 tvg-id="Net5.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/net5.png" group-title="NL TV",NET 5
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1181201
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1181201
 
 #EXTINF:-1 tvg-id="SBS6.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/sbs6.png" group-title="NL TV",SBS 6
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1181243
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1181243
 
 #EXTINF:-1 tvg-id="RTL7.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/rtl7.png" group-title="NL TV",RTL 7
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1181240
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1181240
 
 #EXTINF:-1 tvg-id="RTL8.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/rtl8.png" group-title="NL TV",RTL 8
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1181239
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1181239
 
 #EXTINF:-1 tvg-id="RTLZ.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/rtlz.png" group-title="NL TV",RTL Z
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1181238
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1181238
 
 #EXTINF:-1 tvg-id="SBS9.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/sbs9.png" group-title="NL TV",SBS 9
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1557
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1557
 
 #EXTINF:-1 tvg-id="VeronicaDisneyXD.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/veronicaxd.png" group-title="NL TV",Veronica/Disney
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1181244
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1181244
 
 #EXTINF:-1 tvg-id="tvg-id="NPO1.nl"" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/cc.png" group-title="NL TV",Comedy Central
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1181222
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1181222
 
 #EXTINF:-1 tvg-name="PLAY+: NICKELODEON ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/nickelodeon.png" group-title="NL TV",Nickelodeon
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1578
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1578
 
 #EXTINF:-1 tvg-id="DisneyChannel.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/disneychannel.png" group-title="NL TV",Disney Channel
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1531
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1531
 
 #EXTINF:-1 tvg-id="TS" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/crime.png" group-title="NL TV",Crime Investigation
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1181221
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1181221
 
 #EXTINF:-1 tvg-id="History.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/history.png" group-title="NL TV",History
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1539
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1539
 
 #EXTINF:-1 tvg-id="NatGeo.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/natgeo.png" group-title="NL TV",National Geographic
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1571
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1571
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/discovery.png" group-title="NL TV",Discovery Channel
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1570
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1570
 
 #EXTINF:-1 tvg-id="AnimalPlanet.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/animalplanet.png" group-title="NL TV",Animal Planet
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1530
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1530
 
 #EXTINF:-1 tvg-id="MTV.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/mtv.png" group-title="NL TV",MTV
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1558
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1558
 
 #EXTINF:-1 tvg-id="Fox.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/starchannel.png" group-title="NL TV",Star Channel
-http://4kplayer.online:80/Boogar/7bdf8e9bae/76323
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/76323
 
 #EXTINF:-1 tvg-id="TLC.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/tlc.png" group-title="NL TV",TLC
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1526
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1526
 
 #EXTINF:-1 tvg-id="ESPN1.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/espn1.png" group-title="NL Sport",ESPN 1
-http://4kplayer.online:80/live/Boogar/7bdf8e9bae/317812.ts
+http://cf.cdn-010.me:80/live/Boogar/7bdf8e9bae/317812.ts
 
 #EXTINF:-1 tvg-id="ESPN2.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/espn2.png" group-title="NL Sport",ESPN 2
-http://4kplayer.online:80/live/Boogar/7bdf8e9bae/317811.ts
+http://cf.cdn-010.me:80/live/Boogar/7bdf8e9bae/317811.ts
 
 #EXTINF:-1 tvg-id="ESPN3.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/espn3.png" group-title="NL Sport",ESPN 3
-http://4kplayer.online:80/live/Boogar/7bdf8e9bae/317810.ts
+http://cf.cdn-010.me:80/live/Boogar/7bdf8e9bae/317810.ts
 
 #EXTINF:-1 tvg-id="ESPN4.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/espn4.png" group-title="NL Sport",ESPN 4
-http://4kplayer.online:80/live/Boogar/7bdf8e9bae/317809.ts
+http://cf.cdn-010.me:80/live/Boogar/7bdf8e9bae/317809.ts
 
 #EXTINF:-1 tvg-id="TS" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/espnhd.png" group-title="NL Sport",ESPN UHD
-http://4kplayer.online:80/live/Boogar/7bdf8e9bae/326256.ts
+http://cf.cdn-010.me:80/live/Boogar/7bdf8e9bae/326256.ts
 
 #EXTINF:-1 tvg-id="Eurosport1.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/eurosport1.png" group-title="NL Sport",Eurosport 1
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1568
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1568
 
 #EXTINF:-1 tvg-id="Eurosport2.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/eurosport2.png" group-title="NL Sport",Eurosport 2
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1569
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1569
 
 #EXTINF:-1 tvg-id="ZiggoSportSelect.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/ziggo1.png" group-title="NL Sport",Ziggo Sport 1
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1541
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1541
 
 #EXTINF:-1 tvg-id="ZiggoSportVoetbal.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/ziggo2.png" group-title="NL Sport",Ziggo Sport 2
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1544
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1544
 
 #EXTINF:-1 tvg-id="ZiggoSportGolf.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/ziggo3.png" group-title="NL Sport",Ziggo Sport 3
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1606
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1606
 
 #EXTINF:-1 tvg-id="ZiggoSportRacing.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/ziggo4.png" group-title="NL Sport",Ziggo Sport 4
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1614
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1614
 
 #EXTINF:-1 tvg-id="ZiggoSportDocu.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/ziggo5.png" group-title="NL Sport",Ziggo Sport 5
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1596
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1596
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/ziggo6.png" group-title="NL Sport",Ziggo Sport 6
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1181160
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1181160
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/viaplay.png" group-title="NL Sport",Viaplay TV
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1406418
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1406418
 
 #EXTINF:-1 tvg-id="TS" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/videolandlive.png" group-title="NL Sport",Videoland live 1
-http://4kplayer.online:80/Boogar/7bdf8e9bae/445071
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/445071
 
 #EXTINF:-1 tvg-id="TS" tvg-id="TS" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/videolandlive.png" group-title="NL Sport",Videoland live 2
-http://4kplayer.online:80/Boogar/7bdf8e9bae/590208
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/590208
 
 #EXTINF:-1 tvg-id="TS" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/videolandlive.png" group-title="NL Sport",Videoland live 3
-http://4kplayer.online:80/Boogar/7bdf8e9bae/612863
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/612863
 
 #EXTINF:-1 tvg-id="TS" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/videolandlive.png" group-title="NL Sport",Videoland live 4
-http://4kplayer.online:80/Boogar/7bdf8e9bae/612862
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/612862
 
 
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 1" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 1
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918750
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918750
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 2" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 2
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918749
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918749
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 3" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 3
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918748
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918748
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 4" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 4
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918747
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918747
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 5" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 5
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918746
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918746
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 6" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 6
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918745
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918745
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 7" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 7
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918744
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918744
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 8" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 8
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918743
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918743
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 9" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 9
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918742
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918742
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 10" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 10
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918741
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918741
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 11" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 11
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918740
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918740
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 12" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 12
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918739
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918739
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 13" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 13
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918738
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918738
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 14" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 14
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918737
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918737
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 15" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 15
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918736
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918736
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 16" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 16
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918735
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918735
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 17" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 17
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918734
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918734
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 18" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 18
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918733
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918733
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 19" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 19
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918732
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918732
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 20" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 20
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918731
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918731
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 21" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 21
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918730
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918730
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 22" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 22
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918729
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918729
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 23" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 23
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918728
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918728
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 24" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 24
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918727
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918727
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 25" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 25
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918726
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918726
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 26" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 26
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918725
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918725
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 27" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 27
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918724
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918724
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 28" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 28
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918723
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918723
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 29" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 29
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918722
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918722
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 30" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 30
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918721
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918721
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 31" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 31
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918720
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918720
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 32" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 32
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918719
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918719
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 33" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 33
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918718
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918718
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 34" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 34
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918717
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918717
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 35" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 35
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918716
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918716
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 36" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 36
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918715
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918715
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 37" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 37
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918714
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918714
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 38" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 38
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918713
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918713
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 39" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 39
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918712
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918712
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 40" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 40
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918711
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918711
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 41" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 41
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918710
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918710
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 42" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 42
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918709
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918709
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 43" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 43
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918708
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918708
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 44" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 44
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918707
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918707
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 45" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 45
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918706
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918706
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 46" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 46
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918705
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918705
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 47" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 47
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918704
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918704
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 48" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 48
-http://4kplayer.online:80/Boogar/7bdf8e9bae/918703
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/918703
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY PPV 49" tvg-logo="https://github.com/boogaard53/NL-TV-LOGOS/blob/main/viaplay.png" group-title="NL Sport",VIAPLAY PPV 49
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="NL: HET HUIS ANUBIS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12570.jpg?35968" group-title="NL Random",Het huis anubis
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1019838
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1019838
 
 #EXTINF:-1 tvg-id="" tvg-name="NL: THE BIG BANG THEORY" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12574.jpg?77524" group-title="NL Random" The big bang theory
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1019845
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1019845
 
 #EXTINF:-1 tvg-id="Film1Action.nl" tvg-name="NL: FILM 1 ACTION 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/595.png?54897" group-title="NL Random",Film 1 - Actie
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1595
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1595
 
 #EXTINF:-1 tvg-id="Film1Drama.nl" tvg-name="NL: FILM 1 DRAMA 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/597.png?59502" group-title="NL Random",Film 1 - Drama
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1565
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1565
 
 #EXTINF:-1 tvg-id="Film1Premiere.nl" tvg-name="NL: FILM 1 PREMIERE 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/601.png?17881" group-title="NL Random",Film 1 - Premiere
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1564
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1564
 
 #EXTINF:-1 tvg-id="Film1Family.nl" tvg-name="NL: FILM 1 FAMILY 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/599.png?89173" group-title="NL Random",Film 1 - Family
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1566
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1566
 
 #EXTINF:-1 tvg-id="" tvg-name="NL: DE KLEINE ZEEMEERMIN 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12603.png?70152" group-title="NL Random",De kleine zeemeermin
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1019857
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1019857
 
 #EXTINF:-1 tvg-id="" tvg-name="NL: SPONGEBOB 4K" tvg-logo="http://logo.protv.cc/picons/logos/NETHERLAND-HICHAM/SPONGEBOB.png" group-title="NL Random",Spongebob
-http://4kplayer.online:80/Boogar/7bdf8e9bae/507660
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/507660
 
 #EXTINF:-1 tvg-id="" tvg-name="NL: TELETUBBIES 4K" tvg-logo="http://logo.protv.cc/picons/logos/NETHERLAND-HICHAM/KIDS-TV.png" group-title="NL Random",Teletubbies
-http://4kplayer.online:80/Boogar/7bdf8e9bae/507659
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/507659
 
 #EXTINF:-1 tvg-id="" tvg-name="NL: SMURFEN 4K" tvg-logo="http://logo.protv.cc/picons/logos/NETHERLAND-HICHAM/KIDS-TV.png" group-title="NL Random",De Smurven
-http://4kplayer.online:80/Boogar/7bdf8e9bae/507657
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/507657
 
 #EXTINF:-1 tvg-id="" tvg-name="NL: PEPPA PIG 4K" tvg-logo="http://logo.protv.cc/picons/logos/NETHERLAND-HICHAM/KIDS-TV.png" group-title="NL Random",Peppa pig
-http://4kplayer.online:80/Boogar/7bdf8e9bae/507656
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/507656
 
 #EXTINF:-1 tvg-id="" tvg-name="NL: ZOU 4K" tvg-logo="http://logo.protv.cc/picons/logos/NETHERLAND-HICHAM/KIDS-TV.png" group-title="NL Random",Zou
-http://4kplayer.online:80/Boogar/7bdf8e9bae/507655
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/507655
 
 #EXTINF:-1 tvg-id="" tvg-name="NL: MAYA DE BIJ 4K" tvg-logo="http://logo.protv.cc/picons/logos/NETHERLAND-HICHAM/KIDS-TV.png" group-title="NL Random",Maya de bij
-http://4kplayer.online:80/Boogar/7bdf8e9bae/507653
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/507653
 
 #EXTINF:-1 tvg-id="" tvg-name="NL: MASHA DE BEER 4K" tvg-logo="http://logo.protv.cc/picons/logos/NETHERLAND-HICHAM/KIDS-TV.png" group-title="NL Random",Masha de beer
-http://4kplayer.online:80/Boogar/7bdf8e9bae/507652
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/507652
 
 #EXTINF:-1 tvg-id="" tvg-name="NL: FABELTJESKRANT 4K" tvg-logo="http://logo.protv.cc/picons/logos/NETHERLAND-HICHAM/KIDS-TV.png" group-title="NL Random",Fabeltjeskrant
-http://4kplayer.online:80/Boogar/7bdf8e9bae/507648
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/507648
 
 #EXTINF:-1 tvg-id="" tvg-name="NL: BUMBA 4K" tvg-logo="http://logo.protv.cc/picons/logos/NETHERLAND-HICHAM/KIDS-TV.png" group-title="NL Random",BUMBA
-http://4kplayer.online:80/Boogar/7bdf8e9bae/507644
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/507644
 
 #EXTINF:-1 tvg-id="" tvg-name="NL: BRANDWEERMAN SAM 4K" tvg-logo="http://logo.protv.cc/picons/logos/NETHERLAND-HICHAM/KIDS-TV.png" group-title="NL Random",Brandweerman SAM
-http://4kplayer.online:80/Boogar/7bdf8e9bae/507643
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/507643
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.nl" tvg-name="NL: Discovery 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/618.jpg?45985" group-title="NL Random",Discovery Documentary
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1570
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1570
 
 #EXTINF:-1 tvg-id="NatGeo.nl" tvg-name="NL: National Geographic Channel 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/616.png?4998" group-title="NL Random",National Geographic Documentary
-http://4kplayer.online:80/Boogar/7bdf8e9bae/1571
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1571
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-64n1VHhvqwMvkVgFQuShOubXz8GvnrxrA&s" group-title="UFC",UFC 1
-http://4kplayer.online:80/live/Boogar/7bdf8e9bae/605936.ts
+http://cf.cdn-010.me:80/live/Boogar/7bdf8e9bae/605936.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-64n1VHhvqwMvkVgFQuShOubXz8GvnrxrA&s" group-title="UFC",UFC 2
-http://4kplayer.online:80/live/Boogar/7bdf8e9bae/605935.ts
+http://cf.cdn-010.me:80/live/Boogar/7bdf8e9bae/605935.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-64n1VHhvqwMvkVgFQuShOubXz8GvnrxrA&s" group-title="UFC",UFC 3
-http://4kplayer.online:80/live/Boogar/7bdf8e9bae/605934.ts
+http://cf.cdn-010.me:80/live/Boogar/7bdf8e9bae/605934.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-64n1VHhvqwMvkVgFQuShOubXz8GvnrxrA&s" group-title="UFC",UFC 4
-http://4kplayer.online:80/live/Boogar/7bdf8e9bae/605933.ts
+http://cf.cdn-010.me:80/live/Boogar/7bdf8e9bae/605933.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-64n1VHhvqwMvkVgFQuShOubXz8GvnrxrA&s" group-title="UFC",UFC 5
-http://4kplayer.online:80/live/Boogar/7bdf8e9bae/605932.ts
+http://cf.cdn-010.me:80/live/Boogar/7bdf8e9bae/605932.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-64n1VHhvqwMvkVgFQuShOubXz8GvnrxrA&s" group-title="UFC",UFC 6
-http://4kplayer.online:80/live/Boogar/7bdf8e9bae/605931.ts
+http://cf.cdn-010.me:80/live/Boogar/7bdf8e9bae/605931.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-64n1VHhvqwMvkVgFQuShOubXz8GvnrxrA&s" group-title="UFC",UFC 7
-http://4kplayer.online:80/live/Boogar/7bdf8e9bae/605930.ts
+http://cf.cdn-010.me:80/live/Boogar/7bdf8e9bae/605930.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-64n1VHhvqwMvkVgFQuShOubXz8GvnrxrA&s" group-title="UFC",UFC 8
-http://4kplayer.online:80/live/Boogar/7bdf8e9bae/605929.ts
+http://cf.cdn-010.me:80/live/Boogar/7bdf8e9bae/605929.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-64n1VHhvqwMvkVgFQuShOubXz8GvnrxrA&s" group-title="UFC",UFC 9
-http://4kplayer.online:80/live/Boogar/7bdf8e9bae/605928.ts
+http://cf.cdn-010.me:80/live/Boogar/7bdf8e9bae/605928.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-64n1VHhvqwMvkVgFQuShOubXz8GvnrxrA&s" group-title="UFC",UFC 10
-http://4kplayer.online:80/live/Boogar/7bdf8e9bae/605927.ts
+http://cf.cdn-010.me:80/live/Boogar/7bdf8e9bae/605927.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-64n1VHhvqwMvkVgFQuShOubXz8GvnrxrA&s" group-title="UFC",UFC 11
-http://4kplayer.online:80/live/Boogar/7bdf8e9bae/605926.ts
+http://cf.cdn-010.me:80/live/Boogar/7bdf8e9bae/605926.ts
+
 
 
 
