@@ -91,22 +91,22 @@ http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1568
 http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1569
 
 #EXTINF:-1 tvg-id="ZiggoSportSelect.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/ziggo1.png" group-title="NL Sport",Ziggo Sport 1
-http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1541
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1537611.ts
 
 #EXTINF:-1 tvg-id="ZiggoSportVoetbal.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/ziggo2.png" group-title="NL Sport",Ziggo Sport 2
-http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1544
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1537610.ts
 
 #EXTINF:-1 tvg-id="ZiggoSportGolf.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/ziggo3.png" group-title="NL Sport",Ziggo Sport 3
-http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1606
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1537609.ts
 
 #EXTINF:-1 tvg-id="ZiggoSportRacing.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/ziggo4.png" group-title="NL Sport",Ziggo Sport 4
-http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1614
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1537608.ts
 
 #EXTINF:-1 tvg-id="ZiggoSportDocu.nl" tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/ziggo5.png" group-title="NL Sport",Ziggo Sport 5
-http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1596
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1537607.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/ziggo6.png" group-title="NL Sport",Ziggo Sport 6
-http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1181160
+http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1537606.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boogaard53/personal-repo/refs/heads/main/viaplay.png" group-title="NL Sport",Viaplay TV
 http://cf.cdn-010.me:80/Boogar/7bdf8e9bae/1406418
@@ -313,6 +313,7 @@ http://cf.cdn-010.me:80/live/Boogar/7bdf8e9bae/605927.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-64n1VHhvqwMvkVgFQuShOubXz8GvnrxrA&s" group-title="UFC",UFC 11
 http://cf.cdn-010.me:80/live/Boogar/7bdf8e9bae/605926.ts
+
 
 
 
