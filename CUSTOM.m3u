@@ -375,6 +375,27 @@ http://cf.hi-ott.me:80/live/Boogar/7bdf8e9bae/946783.ts
 #EXTINF:-1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/3/0/5/1447305_66b604178b19d7efdc584b92_tennischannel_753520.png" group-title="Tennis Channel",Tennis Channel 20
 http://cf.hi-ott.me:80/live/Boogar/7bdf8e9bae/946782.ts
 
+#EXTINF:-3 tvg-id="NPO3.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/f1.png" group-title="F1 UK",F1 Race
+http://cf.hi-ott.me:80/live/Boogar/7bdf8e9bae/1367515.ts
+
+#EXTINF:-3 tvg-id="NPO3.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/f1.png" group-title="F1 UK",F1 Race Data
+http://cf.hi-ott.me:80/live/Boogar/7bdf8e9bae/1367514.ts
+
+#EXTINF:-3 tvg-id="NPO3.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/f1.png" group-title="F1 UK",F1 Race Track Map
+http://cf.hi-ott.me:80/live/Boogar/7bdf8e9bae/1367512.ts
+
+#EXTINF:-3 tvg-id="NPO3.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/f1.png" group-title="F1 UK",F1 Race UHD
+http://cf.hi-ott.me:80/live/Boogar/7bdf8e9bae/1367513.ts
+
+#EXTINF:-3 tvg-id="NPO3.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/f1.png" group-title="F1 UK",F1 Max Verstappen
+http://cf.hi-ott.me:80/live/Boogar/7bdf8e9bae/1367497.ts
+
+#EXTINF:-3 tvg-id="NPO3.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/f1.png" group-title="F1 UK",F1 Lando Norris
+http://cf.hi-ott.me:80/live/Boogar/7bdf8e9bae/1367502.ts
+
+#EXTINF:-3 tvg-id="NPO3.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/f1.png" group-title="F1 UK",F1 Oscar Piastri
+http://cf.hi-ott.me:80/live/Boogar/7bdf8e9bae/1367503.ts
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="NL - NL - Flodder (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbQX4kpoyj3Xj3Km4fPmWO7edst.jpg" group-title="Flodder",NL - NL - Flodder (1986)
@@ -510,6 +531,7 @@ http://cf.hi-ott.me:80/series/Boogar/7bdf8e9bae/519680.avi
 http://cf.hi-ott.me:80/series/Boogar/7bdf8e9bae/519707.avi
 #EXTINF:-1 tvg-id="" tvg-name="NL - Flodder TV Serie S05 E13" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/flodder.png" group-title="Flodder",NL - Flodder TV Serie S05 E13
 http://cf.hi-ott.me:80/series/Boogar/7bdf8e9bae/519722.avi
+
 
 
 
