@@ -396,6 +396,12 @@ http://cf.hi-ott.me:80/live/Boogar/7bdf8e9bae/1367502.ts
 #EXTINF:-3 tvg-id="NPO3.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/f1.png" group-title="F1 UK",F1 Oscar Piastri
 http://cf.hi-ott.me:80/live/Boogar/7bdf8e9bae/1367503.ts
 
+#EXTINF:-3 tvg-id="NPO3.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/f1.png" group-title="F1 UK",F1 Backup Stream 1
+http://cf.hi-ott.me:80/live/Boogar/7bdf8e9bae/1527633.ts
+
+#EXTINF:-3 tvg-id="NPO3.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/f1.png" group-title="F1 UK",F1 Backup Stream 2
+http://cf.hi-ott.me:80/live/Boogar/7bdf8e9bae/1290235.ts
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="NL - NL - Flodder (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbQX4kpoyj3Xj3Km4fPmWO7edst.jpg" group-title="Flodder",NL - NL - Flodder (1986)
@@ -531,6 +537,7 @@ http://cf.hi-ott.me:80/series/Boogar/7bdf8e9bae/519680.avi
 http://cf.hi-ott.me:80/series/Boogar/7bdf8e9bae/519707.avi
 #EXTINF:-1 tvg-id="" tvg-name="NL - Flodder TV Serie S05 E13" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/flodder.png" group-title="Flodder",NL - Flodder TV Serie S05 E13
 http://cf.hi-ott.me:80/series/Boogar/7bdf8e9bae/519722.avi
+
 
 
 
