@@ -1,52 +1,52 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="NPO1.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/npo1.png" group-title="NL TV",NPO 1
-http://cf.hi-ott.me:80/Boogar/7bdf8e9bae/1181247
+http://cf.business-cdn.me:80/live/31456/88ceb49fbd/1523.ts
 
 #EXTINF:-2 tvg-id="NPO2.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/npo2.png" group-title="NL TV",NPO 2
-http://cf.hi-ott.me:80/Boogar/7bdf8e9bae/1181246
+http://cf.business-cdn.me:80/live/31456/88ceb49fbd/1524.ts
 
 #EXTINF:-3 tvg-id="NPO3.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/npo3.png" group-title="NL TV",NPO 3
-http://cf.hi-ott.me:80/Boogar/7bdf8e9bae/1181245
+http://cf.business-cdn.me:80/live/31456/88ceb49fbd/1525.ts
 
 #EXTINF:-4 tvg-id="RTL4.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/rtl4.png" group-title="NL TV",RTL 4
-http://cf.hi-ott.me:80/Boogar/7bdf8e9bae/1181242
+http://cf.business-cdn.me:80/live/31456/88ceb49fbd/1549.ts
 
 #EXTINF:-5 tvg-id="RTL5.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/rtl5.png" group-title="NL TV",RTL 5
-http://cf.hi-ott.me:80/Boogar/7bdf8e9bae/1181241
+http://cf.business-cdn.me:80/live/31456/88ceb49fbd/1550.ts
 
 #EXTINF:-1 tvg-id="Net5.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/net5.png" group-title="NL TV",NET 5
-http://cf.hi-ott.me:80/Boogar/7bdf8e9bae/1181201
+http://cf.business-cdn.me:80/live/31456/88ceb49fbd/1529.ts
 
 #EXTINF:-1 tvg-id="SBS6.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/sbs6.png" group-title="NL TV",SBS 6
-http://cf.hi-ott.me:80/Boogar/7bdf8e9bae/1181243
+http://cf.business-cdn.me:80/live/31456/88ceb49fbd/1546.ts
 
 #EXTINF:-1 tvg-id="RTL7.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/rtl7.png" group-title="NL TV",RTL 7
-http://cf.hi-ott.me:80/Boogar/7bdf8e9bae/1181240
+http://cf.business-cdn.me:80/live/31456/88ceb49fbd/1535.ts
 
 #EXTINF:-1 tvg-id="RTL8.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/rtl8.png" group-title="NL TV",RTL 8
-http://cf.hi-ott.me:80/Boogar/7bdf8e9bae/1181239
+http://cf.business-cdn.me:80/live/31456/88ceb49fbd/1563.ts
 
 #EXTINF:-1 tvg-id="RTLZ.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/rtlz.png" group-title="NL TV",RTL Z
-http://cf.hi-ott.me:80/Boogar/7bdf8e9bae/1181238
+http://cf.business-cdn.me:80/live/31456/88ceb49fbd/1533.ts
 
 #EXTINF:-1 tvg-id="SBS9.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/sbs9.png" group-title="NL TV",SBS 9
-http://cf.hi-ott.me:80/Boogar/7bdf8e9bae/1557
+http://cf.business-cdn.me:80/live/31456/88ceb49fbd/1557.ts
 
 #EXTINF:-1 tvg-id="VeronicaDisneyXD.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/veronicaxd.png" group-title="NL TV",Veronica/Disney
-http://cf.hi-ott.me:80/Boogar/7bdf8e9bae/1181244
+http://cf.business-cdn.me:80/live/31456/88ceb49fbd/1552.ts
 
 #EXTINF:-1 tvg-id="tvg-id="NPO1.nl"" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/cc.png" group-title="NL TV",Comedy Central
-http://cf.hi-ott.me:80/Boogar/7bdf8e9bae/1181222
+http://cf.business-cdn.me:80/live/31456/88ceb49fbd/1553.ts
 
 #EXTINF:-1 tvg-name="PLAY+: NICKELODEON ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/nickelodeon.png" group-title="NL TV",Nickelodeon
-http://cf.hi-ott.me:80/Boogar/7bdf8e9bae/1578
+http://cf.business-cdn.me:80/live/31456/88ceb49fbd/1578.ts
 
 #EXTINF:-1 tvg-id="DisneyChannel.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/disneychannel.png" group-title="NL TV",Disney Channel
-http://cf.hi-ott.me:80/Boogar/7bdf8e9bae/1531
+http://cf.business-cdn.me:80/live/31456/88ceb49fbd/1531.ts
 
 #EXTINF:-1 tvg-id="TS" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/crime.png" group-title="NL TV",Crime Investigation
-http://cf.hi-ott.me:80/Boogar/7bdf8e9bae/1181221
+http://cf.business-cdn.me:80/live/31456/88ceb49fbd/1181130.ts
 
 #EXTINF:-1 tvg-id="History.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/history.png" group-title="NL TV",History
 http://cf.hi-ott.me:80/Boogar/7bdf8e9bae/1539
@@ -70,19 +70,19 @@ http://cf.hi-ott.me:80/Boogar/7bdf8e9bae/76323
 http://cf.hi-ott.me:80/Boogar/7bdf8e9bae/1526
 
 #EXTINF:-1 tvg-id="ESPN1.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/espn1.png" group-title="NL Sport",ESPN 1
-http://cf.hi-ott.me:80/live/Boogar/7bdf8e9bae/317812.ts
+http://cf.business-cdn.me:80/live/31456/88ceb49fbd/317812.ts
 
 #EXTINF:-1 tvg-id="ESPN2.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/espn2.png" group-title="NL Sport",ESPN 2
-http://cf.hi-ott.me:80/live/Boogar/7bdf8e9bae/317811.ts
+http://cf.business-cdn.me:80/live/31456/88ceb49fbd/317811.ts
 
 #EXTINF:-1 tvg-id="ESPN3.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/espn3.png" group-title="NL Sport",ESPN 3
-http://cf.hi-ott.me:80/live/Boogar/7bdf8e9bae/317810.ts
+http://cf.business-cdn.me:80/live/31456/88ceb49fbd/317810.ts
 
 #EXTINF:-1 tvg-id="ESPN4.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/espn4.png" group-title="NL Sport",ESPN 4
-http://cf.hi-ott.me:80/live/Boogar/7bdf8e9bae/317809.ts
+http://cf.business-cdn.me:80/live/31456/88ceb49fbd/317809.ts
 
 #EXTINF:-1 tvg-id="TS" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/espnhd.png" group-title="NL Sport",ESPN UHD
-http://cf.hi-ott.me:80/live/Boogar/7bdf8e9bae/326256.ts
+http://cf.business-cdn.me:80/live/31456/88ceb49fbd/326256.ts
 
 #EXTINF:-1 tvg-id="Eurosport1.nl" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/eurosport1.png" group-title="NL Sport",Eurosport 1
 http://cf.hi-ott.me:80/Boogar/7bdf8e9bae/1568
@@ -537,6 +537,7 @@ http://cf.hi-ott.me:80/series/Boogar/7bdf8e9bae/519680.avi
 http://cf.hi-ott.me:80/series/Boogar/7bdf8e9bae/519707.avi
 #EXTINF:-1 tvg-id="" tvg-name="NL - Flodder TV Serie S05 E13" tvg-logo="https://raw.githubusercontent.com/Boogaard53/personal-repo/refs/heads/main/flodder.png" group-title="Flodder",NL - Flodder TV Serie S05 E13
 http://cf.hi-ott.me:80/series/Boogar/7bdf8e9bae/519722.avi
+
 
 
 
